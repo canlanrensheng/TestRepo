@@ -19,6 +19,9 @@
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor redColor];
     self.view.frame = [UIScreen mainScreen].bounds;
+    
+    UIView *view  = [[UIView alloc] init];
+    view.backgroundColor =  [UIColor blueColor];
 }
 
 
