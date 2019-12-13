@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor redColor];
     //text
+    
+    //建立了新分支
 }
 
 
