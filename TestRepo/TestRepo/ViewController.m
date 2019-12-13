@@ -19,6 +19,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor redColor];
+    //修改
+    UITextView *textview = [UITextView new];
 }
 
 
